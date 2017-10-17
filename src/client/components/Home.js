@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Home = () => {
-  console.log('home-client');
+  console.log('home-component');
   return (
     <div>
       <div>I'm the home component !</div>
